@@ -1,0 +1,6 @@
+ahmed : hamza : 120
+ar : goraya : 180
+test : test : 120
+ali : sher : 150
+user : name : 160
+anique : atique : 150
